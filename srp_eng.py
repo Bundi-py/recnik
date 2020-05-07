@@ -115,8 +115,8 @@ def listing_ps(letter_ps):
         if k.startswith(letter_ps):
             print(k, ' = ', v)
 
-# Serbian-English
 
+#############  Serbian-English  #############
 
 def subMenu_sp():
     print('''Welcome to the Serbian-English Dictionary:
